@@ -1,0 +1,4 @@
+[Project]
+Name=echo_server
+Manager=KDevCMakeManager
+VersionControl=kdevgit
